@@ -1,0 +1,16 @@
+
+nav{
+    background-color:slategray;
+}
+
+.list-group-item {
+    background-color:transparent;
+    border-color: transparent;
+    transition:transform 0.3s ease-in-out;
+      transform:scale(1.25);
+    }
+#icono :hover{
+        transition:transform 0.3s ease-in-out;
+        transform:scale(1.25);
+      }
+
