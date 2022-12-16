@@ -1,0 +1,12 @@
+.row{
+    background-color: rgba(250, 233, 0, 0);
+    margin: 5rem;
+    padding: 50px;
+    font-size: 1.5rem;
+    text-align: center;
+    }
+
+#perroCejas{
+        
+        border-radius: 50%;
+    }
